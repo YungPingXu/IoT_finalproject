@@ -1,0 +1,6 @@
+__pycache__
+venv
+key.txt
+read.py
+*.png
+debug.log
